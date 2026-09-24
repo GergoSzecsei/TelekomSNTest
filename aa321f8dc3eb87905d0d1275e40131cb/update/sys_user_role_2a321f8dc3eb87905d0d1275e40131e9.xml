@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Default admin role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <federated_id>tWIUxQJ9tlJNeXD4cE1O7XcZR4c2fnRW8jQ6Ko0Iot8=</federated_id>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_2221461_teleko_0.git_admin</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>git_admin</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-24 06:44:29</sys_created_on>
+        <sys_id>2a321f8dc3eb87905d0d1275e40131e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2221461_teleko_0.git_admin</sys_name>
+        <sys_package display_value="Telekom Git Test" source="x_2221461_teleko_0">aa321f8dc3eb87905d0d1275e40131cb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telekom Git Test">aa321f8dc3eb87905d0d1275e40131cb</sys_scope>
+        <sys_update_name>sys_user_role_2a321f8dc3eb87905d0d1275e40131e9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-24 06:44:29</sys_updated_on>
+    </sys_user_role>
+</record_update>

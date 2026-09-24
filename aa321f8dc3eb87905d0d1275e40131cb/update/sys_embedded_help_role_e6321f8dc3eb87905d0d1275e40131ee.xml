@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_2221461_teleko_0.git_admin" name="x_2221461_teleko_0.git_admin">2a321f8dc3eb87905d0d1275e40131e9</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-24 06:44:29</sys_created_on>
+        <sys_id>e6321f8dc3eb87905d0d1275e40131ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2a321f8dc3eb87905d0d1275e40131e9</sys_name>
+        <sys_package display_value="Telekom Git Test" source="x_2221461_teleko_0">aa321f8dc3eb87905d0d1275e40131cb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telekom Git Test">aa321f8dc3eb87905d0d1275e40131cb</sys_scope>
+        <sys_update_name>sys_embedded_help_role_e6321f8dc3eb87905d0d1275e40131ee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-24 06:44:29</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
